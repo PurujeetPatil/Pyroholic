@@ -1,0 +1,12 @@
+"pyroholic"
+{
+	"base" 			"coop"
+	"maxplayers" 		"4"
+	"hasdifficulty" 	"1"
+	"singlechapter"		"1"
+		
+	"DisplayTitle"		"Pyro-holic"
+	"Description"		"flammenwerfer"
+	"Image"			"maps/any"
+	"Author"		"Aditya & Purujeet"
+}
