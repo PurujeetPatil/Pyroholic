@@ -3,7 +3,7 @@ DirectorOptions <-
 {
   	weaponsToRemove =
  	{
-	//	<Weapon script name>	= 0
+	  weapon_molotov           = 0
           weapon_pipe_bomb         = 0
           weapon_vomitjar          = 0
           weapon_pistol            = 0
